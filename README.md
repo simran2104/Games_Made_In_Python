@@ -132,4 +132,4 @@ This will continue for 5 times.\n\n door1: 0, door2: 1, door3: 2
   <br>
   
   <h4 align="center">Thanks for Reading :)</h4>
-  <h4 align="center">*********************</h4>
+  <h4 align="center">**********************</h4>
